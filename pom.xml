@@ -45,7 +45,8 @@
                     <systemPropertyVariables>
                         <jacoco-agent.destfile>target/jacoco.exec</jacoco-agent.destfile>
                     </systemPropertyVariables>
-                </configuration>    
+                </configuration>
+            </plugin>
         </plugins>
     </build>
     <dependencies>
